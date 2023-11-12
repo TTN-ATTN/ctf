@@ -6,7 +6,7 @@ easy
 ### Description: 
 This is a warmup challenge so I give everyone a free flag! Easy peasy lemon squeezy!
 
-[free_flag.zip](https://file.io/ChckU7Dy9Stk)
+[free_flag.zip](WannaGame/freeflag/free_flag.zip)
 
 Download and unzip the file, you get a file named free_flag.pcapng. Strings the pcapng file and you will find some interesting things:
 ```
