@@ -6,7 +6,7 @@ easy
 ### Description: 
 This is a warmup challenge so I give everyone a free flag! Easy peasy lemon squeezy!
 
-[free_flag.zip](https://github.com/TTN-ATTN/ctf/blob/main/WannaGame/freeflag/free_flag.zip)
+[free_flag.zip](https://file.io/ChckU7Dy9Stk)
 
 Download and unzip the file, you get a file named free_flag.pcapng. Strings the pcapng file and you will find some interesting things:
 ```
@@ -74,7 +74,7 @@ So the flag is encrypted with the encryptSecret function:
 - These bytes are collected into a list, joined into a single bytes object, and then encoded into a base64 string.
 - This base64 string is returned as the encrypted secret.
 
-We have the XOR function, the KEY and the cyphertext, let's decrypt it. Here is how I did:
+We have the encryption function, the KEY and the cyphertext, so it's quite straightforward to decrypt it. Here is how I did:
 ```python
 import base64
 
