@@ -1,2 +1,2 @@
 # ctf
-STUFFS ABOUT CTF WRITTEN BY A NEWBIE!!!
+stuffs about ctf written by a newbie
