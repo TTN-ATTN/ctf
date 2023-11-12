@@ -1,5 +1,6 @@
 # WannaGame Freshman 
 ## FREE FLAG challenge
+### Tag: forensics
 ### Level: 
 easy
 ### Description: 
