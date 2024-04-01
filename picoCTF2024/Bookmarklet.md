@@ -3,7 +3,7 @@ Why search for the flag when I can make a bookmarklet to print it for me?
 Browse [here](http://titan.picoctf.net:51073/), and find the flag!
 
 # Solution:
-Access the website, you will find the following javascript code:
+Access the website, I found the following javascript code:
 ```javascript
         javascript:(function() {
             var encryptedFlag = "àÒÆÞ¦È¬ëÙ£ÖÓÚåÛÑ¢ÕÓÓÇ¡¥Ìí";
