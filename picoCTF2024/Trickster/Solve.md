@@ -15,7 +15,7 @@ Upload result:
 
 ![img](1.png)
 
-However, I did't know where was the file stored, so I tried visiting robots.txt for more information.
+However, I did't know the file location, so I tried visiting robots.txt for more information.
 
 robots.txt:
 ```
